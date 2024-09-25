@@ -1,10 +1,11 @@
-# Twin-Gate-Zero-Trust-Network-No-VPN-
-Say no to traditional VPN
-
 
 # Twingate Zero Trust Security Network Setup
 
+
 ## Overview
+
+![MAST HEAD](https://github.com/user-attachments/assets/8026ef35-9784-4974-9eeb-beb515d8cebd)
+
 In this project, I demonstrate the setup of a Zero Trust Security Network using Twingate. This setup connects devices like a laptop, mobile, and iPad to AWS, ensuring secure and continuous verification of access.
 
 ## Why Zero Trust?
@@ -77,7 +78,11 @@ Yon can connect as many machine to gain granular access to resources. The fact t
 
 ## Video Walkthrough
 Here is a link to a video where I walk through the entire setup:
-Not by me but but one of my mentors in the field feel free to like, share and subcribe to his channel.
+
+
+Not by me but one of my mentors in the field feel free to like, share and subcribe to his channel.
+
+
 Rahul Wagh
 https://www.youtube.com/watch?v=l_tgiXEsEgU&t=364s
 
