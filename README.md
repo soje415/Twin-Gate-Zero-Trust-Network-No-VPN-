@@ -1,5 +1,5 @@
 
-# Twingate Zero Trust Security Network Setup
+# Twingate Zero Trust Security Network Setup Using Twin Gate
 
 
 ## Overview
