@@ -19,10 +19,30 @@ Zero Trust Networks continuously verify every access request, ensuring a higher 
 
 ### 1. Setting Up Twingate on a Laptop
 1. Sign up for a Twingate account at [Twingate](https://www.twingate.com).
-2. Create a new network and configure resources (e.g., AWS EC2 instances).
-3. Download the Twingate client for your laptop (Windows, macOS, or Linux).
-4. Install and sign in with your credentials.
-5. Follow the setup wizard to connect your laptop to the Zero Trust Network.
+
+2. 
+3. ![twigate success sign in ](https://github.com/user-attachments/assets/9b3102ce-1aff-41a0-a4e9-133d881869a5)
+4. After a successful sign in, you add a remote network for which will host your instance in AWS
+
+5.  ![TG add remote network](https://github.com/user-attachments/assets/bae1048d-167c-4bd5-8382-2940e1a8d5b0)
+
+
+6.8. You copy these code and paste in your power shell to create the instances
+
+  ![Connector deployment instructions](https://github.com/user-attachments/assets/1b3b6794-f61c-4861-8528-74b11e556015)
+
+7.
+8.   Create a new network and configure resources (e.g., AWS EC2 instances).
+
+9. ![INSTANCES ](https://github.com/user-attachments/assets/8eae2aae-77b1-48b7-abf8-27abc2ed58bd)
+
+
+
+10. 
+After the instance is created
+11. Download the Twingate client for your laptop (Windows, macOS, or Linux).
+12. Install and sign in with your credentials.
+13. Follow the setup wizard to connect your laptop to the Zero Trust Network.
 
 ### 2. Setting Up Twingate on an iPad
 1. Download Twingate from the App Store.
