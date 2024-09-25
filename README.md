@@ -76,6 +76,11 @@ Further test with mt android device .
 Yon can connect as many machine to gain granular access to resources. The fact that it re-authenticates continuoisly is a must try for sensitive infrastructure
 
 
+Twingate can integrate well with a variety of IdP (Identity Providers) see some sample below.
+
+![IdP](https://github.com/user-attachments/assets/64806f51-a251-49be-8fad-8c5e58b4d903)
+
+
 ## Video Walkthrough
 Here is a link to a video where I walk through the entire setup:
 
